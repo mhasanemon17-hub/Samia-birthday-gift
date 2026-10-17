@@ -66,12 +66,12 @@ Once unlocked, users are greeted by three floating neon-accented heart gift boxe
 secret-birthday-gift/
 │
 ├── assets/                       # Image assets and animated GIFs
-│   ├── memory1.jpg               # Polaroid memory photo 1
-│   ├── memory2.jpg               # Polaroid memory photo 2
-│   ├── memory3.jpg               # Polaroid memory photo 3
-│   ├── memory4.jpg               # Polaroid memory photo 4
-│   ├── memory5.jpg               # Polaroid memory photo 5
-│   ├── shinchan-birthday.png     # Cameo lockscreen mascot
+│   ├── samia p3.jpg               # Polaroid memory photo 1
+│   ├── samia p4.jpeg               # Polaroid memory photo 2
+│   ├── samia p5.jpeg               # Polaroid memory photo 3
+│   ├── samia p6.jpeg               # Polaroid memory photo 4
+│   ├── samia p7.jpeg               # Polaroid memory photo 5
+│   ├── smaia p1.jpg     # Cameo lockscreen mascot
 │   ├── shinchan-dance.gif        # Dancing Shinchan celebration
 │   ├── shinchan-excited.gif      # Excited reaction GIF
 │   ├── shinchan-gift.gif         # Gift box mascot
@@ -128,7 +128,7 @@ const LETTER_SECTIONS = [
   },
   {
     id: 'letter-p1-el',
-    text: "gooog"
+    text: "good man"
   },
   ...
 ];
@@ -157,7 +157,7 @@ Feel free to fork this repository, add your own twists, or submit issues and pul
 
 ## 👨‍💻 Author
 
-Created with 💖 by **[@saklincodes](https://github.com/saklincodes)**
+Created with 💖 by **[@mhasanemon17-hub](https://github.com/mhasanemon17-hub)**
 
 ---
 
