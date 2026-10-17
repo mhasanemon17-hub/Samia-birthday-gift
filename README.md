@@ -93,7 +93,7 @@ No build tools or installation needed!
 ### Running Locally
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/saklincodes/secret-birthday-gift.git
+   git clone (https://github.com/mhasanemon17-hub/Samia-birthday-gift.git)
    ```
 2. Navigate into the project folder:
    ```bash
